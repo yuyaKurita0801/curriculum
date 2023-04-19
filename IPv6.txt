@@ -8,7 +8,7 @@
 （２）MACアドレス：9876.5432.10FE
 インターフェースID：9A 76 54 FF FE 32 10 FE
 （３）MACアドレス：FFFF.FFFF.FFFF
- インターフェースID：FE FF FF FF FE FF FF FF
+ インターフェースID：FD FF FF FF FE FF FF FF
  
 --提出物--
 ・IPv6.txt
